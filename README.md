@@ -21,3 +21,15 @@ Arsitektur perangkat lunak GatherLove yang digambarkan menggunakan pendekatan mi
 Dari sisi risiko, pendekatan microservices memiliki kompleksitas tinggi dalam pengelolaan data antar layanan. Karena setiap layanan memiliki database-nya sendiri, maka konsistensi data lintas sistem menjadi tantangan utama—khususnya saat menangani transaksi donasi, top-up saldo, atau update profil pengguna yang bersifat lintas-layanan. Selain itu, tanpa adanya API Gateway sebagai titik koordinasi, beban logika komunikasi dan keamanan akan tersebar di tiap layanan, sehingga menyulitkan penerapan kebijakan terpusat seperti otorisasi, monitoring, dan rate limiting. Sistem juga rentan terhadap kegagalan parsial jika tidak dilengkapi dengan mekanisme retry, fallback, atau circuit breaker.
 
 Sebagai justifikasi, arsitektur ini tepat untuk platform berskala menengah hingga besar karena mendukung pertumbuhan modular. Untuk mengurangi risiko yang telah disebutkan, perlu dirancang strategi seperti implementasi event-driven architecture menggunakan message broker (misalnya Kafka atau RabbitMQ), penggunaan API Gateway untuk mengelola traffic dan keamanan, serta penerapan observability stack (seperti Prometheus dan Grafana) untuk monitoring dan alerting. Di sisi database, strategi replikasi dan sharding dapat dipersiapkan untuk mendukung pertumbuhan data jangka panjang. Dengan perbaikan tersebut, arsitektur ini akan mampu mendukung ekspansi sistem secara efisien dan tangguh.
+
+## Deliverable Individual
+
+### Fitur Kampanye
+
+### Component Diagram
+
+![alt text](<Component Diagram.drawio.png>)
+
+### Code Diagram
+
+![alt text](<Code Diagram.png>)
