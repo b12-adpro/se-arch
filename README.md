@@ -11,3 +11,6 @@ Module 9 Advanced Programming 2024/2025
 
 ### Deployment Diagram
 ![Deployment Diagram](img/deployment.png)
+
+## Deliverable G.2
+![Future Container Diagram](img/future-container.png)
