@@ -43,3 +43,9 @@ Sebagai justifikasi, arsitektur ini tepat untuk platform berskala menengah hingg
 ### Code Diagram
 
 ![Context Diagram](img/Admin-Dashboard-Code-Diagram.jpg)
+
+### Fitur Donasi
+### Component Diagram
+![Donation's Component Diagram](<img/donation-component.png>)
+### Code Diagram
+![Donation's Class Diagram](<img/donation-class.png>)
