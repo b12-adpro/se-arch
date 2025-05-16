@@ -65,3 +65,15 @@ Code diagram wallet:
 Code diagram transaction:
 ![Wallet's Code Diagram 1](<img/transaction-code-1.png>)
 ![Wallet's Code Diagram 2](<img/transaction-code-2.png>)
+
+
+### Fitur Authentication dan Profile
+
+#### Component Diagram
+Untuk component Authenticatioon & Profile:
+![Authentication & Profile Component Diagram](<img/auth-profile-component.png>)
+
+Code diagram auth and profile:
+![Auth's and Profile's Code Diagram 1](<img/auth-profile-code-1.png>)
+![Auth's and Profile's Code Diagram 2](<img/auth-profile-code-2.png>)
+![Auth's and Profile's Code Diagram 2](<img/auth-profile-code-3.png>)
