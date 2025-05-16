@@ -38,8 +38,8 @@ Sebagai justifikasi, arsitektur ini tepat untuk platform berskala menengah hingg
 
 ### Component Diagram
 
-![Context Diagram](img\Admin-Dashboard-Component-Diagram.jpg)
+![Context Diagram](img/Admin-Dashboard-Component-Diagram.jpg)
 
 ### Code Diagram
 
-![Context Diagram](img\Admin-Dashboard-Code-Diagram.jpg)
+![Context Diagram](img/Admin-Dashboard-Code-Diagram.jpg)
