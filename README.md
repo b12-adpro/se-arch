@@ -33,3 +33,13 @@ Sebagai justifikasi, arsitektur ini tepat untuk platform berskala menengah hingg
 ### Code Diagram
 
 ![alt text](<Code Diagram.png>)
+
+### Fitur Admin Dashboard
+
+### Component Diagram
+
+![Context Diagram](img\Admin-Dashboard-Component-Diagram.jpg)
+
+### Code Diagram
+
+![Context Diagram](img\Admin-Dashboard-Code-Diagram.jpg)
