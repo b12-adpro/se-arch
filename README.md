@@ -26,26 +26,42 @@ Sebagai justifikasi, arsitektur ini tepat untuk platform berskala menengah hingg
 
 ### Fitur Kampanye
 
-### Component Diagram
+#### Component Diagram
 
 ![alt text](<Component Diagram.drawio.png>)
 
-### Code Diagram
+#### Code Diagram
 
 ![alt text](<Code Diagram.png>)
 
 ### Fitur Admin Dashboard
 
-### Component Diagram
+#### Component Diagram
 
 ![Context Diagram](img/Admin-Dashboard-Component-Diagram.jpg)
 
-### Code Diagram
+#### Code Diagram
 
 ![Context Diagram](img/Admin-Dashboard-Code-Diagram.jpg)
 
 ### Fitur Donasi
-### Component Diagram
+
+#### Component Diagram
 ![Donation's Component Diagram](<img/donation-component.png>)
-### Code Diagram
+#### Code Diagram
 ![Donation's Class Diagram](<img/donation-class.png>)
+
+
+### Fitur Wallet
+
+#### Component Diagram
+Untuk component wallet & transaction:
+![Wallet & Transaction's Component Diagram](<img/wallet-component.png>)
+
+Code diagram wallet:
+![Wallet's Code Diagram 1](<img/wallet-code-1.png>)
+![Wallet's Code Diagram 2](<img/wallet-code-2.png>)
+
+Code diagram transaction:
+![Wallet's Code Diagram 1](<img/transaction-code-1.png>)
+![Wallet's Code Diagram 2](<img/transaction-code-2.png>)
